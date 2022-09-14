@@ -1,0 +1,85 @@
+---
+booktitle: Proceedings of Mathematical and Scientific Machine Learning
+shortname: MSML
+volume: '190'
+year: '2022'
+start: 2022-08-15
+end: 2022-08-17
+published: 2022-09-14
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MSML-2022
+month: 0
+cycles: false
+bibtex_editor: Dong, Bin and Li, Qianxiao and Wang, Lei and Xu, Zhi-Qin John
+editor:
+- given: Bin
+  family: Dong
+- given: Qianxiao
+  family: Li
+- given: Lei
+  family: Wang
+- given: Zhi-Qin John
+  family: Xu
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of Mathematical and Scientific Machine Learning
+    Held in Peking University, Beijing, China on 15-17 August 2022
+
+  Published as Volume 190 by the Proceedings of Machine Learning Research on 14 September 2022.
+
+  Volume Edited by:
+    Bin Dong
+    Qianxiao Li
+    Lei Wang
+    Zhi-Qin John Xu
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 15--17 Aug
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v190"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v190
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v190
+email: ''
+conference:
+  name: Mathematical and Scientific Machine Learning
+  url: https://msml22.github.io/index.html
+  location: Peking University, Beijing, China
+  dates:
+  - 2022-08-15
+  - 2022-08-16
+  - 2022-08-17
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/home/markus/repos/mlresearch/v190/msml22.bib"
+# Site settings
+# Original source:  /home/markus/repos/mlresearch/v190/msml22.bib
